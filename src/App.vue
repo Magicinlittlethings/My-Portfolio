@@ -37,7 +37,7 @@
     
     
    
-    <div class="flex justify-center ">
+    <div class="flex justify-center bg ">
       
       <div class="">
         
